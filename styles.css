@@ -1,1 +1,28 @@
+div {
+    border: blue;
+    padding: 25px;
+    box-shadow: chartreuse;
+    /* background-color: darkgray; */
+}
 
+h1 {
+    font-style: oblique;
+}
+
+img {
+    border-radius: 50px;
+}
+
+li {
+    margin: 10px;
+    font-style: italic;
+}
+
+/* body, html {
+    height: 100%;
+    margin: 0;
+} */
+
+body {
+    background-image: url("logo_white_background.jpeg");
+}
